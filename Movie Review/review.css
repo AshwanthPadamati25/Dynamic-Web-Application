@@ -1,0 +1,40 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+
+.title-input {
+    text-align: left;
+}
+
+.mr-heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.mr-input-context {
+    color: rgb(156, 154, 154);
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.align-button {
+    text-align: right;
+    padding-right: 8px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.movie-title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 200px;
+}
+
+.movie-review {
+    font-size: 18px;
+    width: 200px;
+}
