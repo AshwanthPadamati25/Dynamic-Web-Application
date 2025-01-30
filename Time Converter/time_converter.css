@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.timeC-bg-container {
+    height: 100vh;
+    color: white;
+    font-family: "Open Sans";
+}
+
+.timeC-content-container {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    background-size: cover;
+    width: 440px;
+    height: 700px;
+    color: white;
+    padding-left: 70px;
+}
+
+.container1 {
+    height: 100%;
+}
+
+.container2 {
+    height: 80%;
+}
+
+.timeC-heading {
+    font-size: 62px;
+    font-weight: 700;
+}
+
+.timeC-description {
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.timeC-label {
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 6px;
+}
+
+.timeC-hrMin-input {
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.timeC-convert-btn {
+    background-color: #f5f7fa;
+    color: #000000;
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    border-width: 0px;
+    font-family: "Open Sans";
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.time-in-seconds {
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+}
