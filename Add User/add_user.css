@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.add-user-main-container {
+    height: 100vh;
+    width: 350px;
+    font-family: "Roboto";
+}
+
+.label-styl {
+    color: rgb(88, 85, 85);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.user-bg-container {
+    width: 350px;
+}
+
+.error-msg {
+    color: red;
+}
